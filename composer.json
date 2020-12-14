@@ -1,0 +1,13 @@
+{
+    "name": "elizarafee/ace",
+    "description": "ACE Website",
+    "type": "boomcms-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eliza Ahmed",
+            "email": "elizarafee@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
